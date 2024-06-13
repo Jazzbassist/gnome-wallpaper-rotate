@@ -1,0 +1,1 @@
+This script reads your monitor resolution, decides whether you are using HD or DualHD resolution and sets a random wallpaper from $HOME/Pictures/Wallpaper/HD or $HOME/Pictures/Wallpaper/DualHD as your desktop background and another as lockscreen. There is also an option for DualHD-resolution to take two Wallpapers from the HD-folder.
